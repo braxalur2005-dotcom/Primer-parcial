@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/braxalur2005-dotcom/Primer-parcial/static/css/main.2e2d3226.css",
-    "main.js": "/braxalur2005-dotcom/Primer-parcial/static/js/main.e42d357d.js",
-    "static/js/453.7cfcf36d.chunk.js": "/braxalur2005-dotcom/Primer-parcial/static/js/453.7cfcf36d.chunk.js",
-    "index.html": "/braxalur2005-dotcom/Primer-parcial/index.html",
-    "main.2e2d3226.css.map": "/braxalur2005-dotcom/Primer-parcial/static/css/main.2e2d3226.css.map",
-    "main.e42d357d.js.map": "/braxalur2005-dotcom/Primer-parcial/static/js/main.e42d357d.js.map",
-    "453.7cfcf36d.chunk.js.map": "/braxalur2005-dotcom/Primer-parcial/static/js/453.7cfcf36d.chunk.js.map"
+    "main.css": "/Primer-parcial/static/css/main.2e2d3226.css",
+    "main.js": "/Primer-parcial/static/js/main.2ab5c9cf.js",
+    "static/js/453.7cfcf36d.chunk.js": "/Primer-parcial/static/js/453.7cfcf36d.chunk.js",
+    "index.html": "/Primer-parcial/index.html",
+    "main.2e2d3226.css.map": "/Primer-parcial/static/css/main.2e2d3226.css.map",
+    "main.2ab5c9cf.js.map": "/Primer-parcial/static/js/main.2ab5c9cf.js.map",
+    "453.7cfcf36d.chunk.js.map": "/Primer-parcial/static/js/453.7cfcf36d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e2d3226.css",
-    "static/js/main.e42d357d.js"
+    "static/js/main.2ab5c9cf.js"
   ]
 }
